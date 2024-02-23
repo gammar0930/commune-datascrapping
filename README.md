@@ -24,7 +24,7 @@ and then predict which pairs will go up or down
 7. **Interactive Visualization:**
    - Provide an interactive visualization to the user, showing the mapped locations of their content and its uniqueness score. This could be a user-friendly interface or dashboard displaying the results.
 
-#To run comscrape
+**#To run comscrape**
 - Go to website/comai
 and then run this project
 
