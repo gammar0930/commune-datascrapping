@@ -23,3 +23,19 @@ and then predict which pairs will go up or down
 
 7. **Interactive Visualization:**
    - Provide an interactive visualization to the user, showing the mapped locations of their content and its uniqueness score. This could be a user-friendly interface or dashboard displaying the results.
+
+#To run comscrape
+- Go to website/comai
+and then run this project
+
+This is a Next.js project created to demonstrate how to run a Next.js application.
+
+Getting Started
+To get started with this project, follow the steps below:
+
+Install the dependencies:
+cd comai
+npm install
+Run the development server:
+npm run dev
+Open http://localhost:3000 in your browser to see the application running.
